@@ -1,4 +1,4 @@
-# Extract date parts, filter by month, and calculate date differences using .dt
+# Bin continuous data using pd.cut and pd.qcut
 import pandas as pd
 import io
 
